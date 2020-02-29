@@ -1,0 +1,1 @@
+# Manicreator.CameraEffect
